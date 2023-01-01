@@ -51,7 +51,7 @@
 - Tools:
     * Python
     * SQL
-  - Skills:
+- Skills:
     * 
     * 
     * 
