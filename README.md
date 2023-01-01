@@ -15,7 +15,9 @@
 * Кликни [сюда](https://github.com/AlexeyPudov?tab=repositories) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python
+- Инструменты:
+    * Python
+    * SQL
 - Skills: 
     * 
     * 
@@ -46,7 +48,9 @@
 * 
 
 ### 💡 Core competencies 💡
-- Tools: Python
+- Tools:
+    * Python
+    * SQL
   - Skills:
     * 
     * 
